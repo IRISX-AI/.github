@@ -41,6 +41,8 @@ def create_glowing_logo(input_path, output_path):
     final_draw.ellipse((30, 30, 430, 430), outline=(6, 182, 212, 255), width=6)
 
     # 6. Save as a transparent PNG
+    output_path = resolve_path(output_path)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
     glow_canvas.save(output_path, format="PNG")
     print(f"✅ Success! Saved as {output_path}")
 
