@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="/assets/Banner.png" width="100%" alt="IRISX-AI Banner" style="border-radius: 12px; margin-bottom: 20px;" />
+  <img src="/assets/Banner.png" width="100%" alt="IRISX-AI Banner" style="border-radius: 12px; margin-bottom: 25px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" />
   
   <a href="https://github.com/IRISX-AI">
-    <img src="/assets/icon.jpg" width="120" alt="IRISX-AI Logo" style="border-radius: 50%; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);" />
+    <img src="/assets/icon.jpg" width="120" alt="IRISX-AI Logo" style="border-radius: 50%; border: 3px solid #0dac07; box-shadow: 0px 0px 20px rgba(7, 128, 13, 0.4);" />
   </a>
 
-  <h1>Welcome to IRISX-AI</h1>
+  <h1>🌌 Welcome to IRIS-AI</h1>
   <p><strong>Pioneering the Next Generation of AI-Powered Ecosystems & Applications</strong></p>
 
   <p>
@@ -22,21 +22,29 @@
 
 ## 🚀 About Us
 
-> **IRISX-AI** is dedicated to engineering intelligent, scalable, and seamless AI architectures. We bridge the gap between complex large language models and intuitive, edge-to-edge user experiences.
+> **IRISX-AI** is a unified engineering collective dedicated to building intelligent, scalable, and seamless AI architectures. We bridge the gap between complex large language models and intuitive, edge-to-edge user experiences.
 
-From robust backend pipelines and MLOps workflows to high-performance cross-platform mobile environments, our mission is to build the tools of tomorrow.
-
-### 🔭 What We're Building
-
-- **Core AI Pipelines:** Developing state-of-the-art architectures integrating LLMs, dynamic agents, and automated workflows.
-- **IRIS-X:** Our flagship mobile ecosystem, delivering a seamless, custom-branded intelligent experience directly to the user's fingertips.
-- **Developer Tooling:** Creating utilities, CI/CD pipelines, and automation scripts to accelerate AI-integrated software development.
+From robust backend pipelines to high-performance, cross-platform mobile environments, our mission is to design the developer tools and applications of tomorrow.
 
 ---
 
-## 💻 Our Tech Stack
+## 🧩 The IRIS Ecosystem
 
-We leverage a modern, high-performance ecosystem to bring our ideas to reality.
+IRIS is not just a single application; it is a modular, interconnected suite of AI models, mobile interfaces, and developer tools. Here is how the ecosystem breaks down:
+
+| Module            | Description                                                                                                                                                                                       | Focus Area                    |
+| :---------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :---------------------------- |
+| **🤖 IRIS AI v1** | The core intelligence engine. A powerful backend pipeline integrating large language models, dynamic agents, and automated reasoning to process and generate complex data.                        | _LLMs, Reasoning, Core AI_    |
+| **📱 IRIS-X**     | Our flagship mobile experience. A beautifully crafted, edge-to-edge application that puts the power of the IRIS pipeline directly into the hands of users with custom branding and a seamless UI. | _Mobile, UI/UX, React Native_ |
+| **💻 IRIS Code**  | Advanced developer tooling and automation scripts. Built to accelerate AI-integrated software development with intelligent workflows, CI/CD pipelines, and project scaffolding.                   | _DevOps, Automation, Tooling_ |
+
+_(We are also constantly exploring new architectures, personalized AI assistants, and real-time messaging frameworks to expand the horizon of what IRIS can do.)_
+
+---
+
+## 💻 Core Tech Stack
+
+We leverage a modern, high-performance ecosystem to bring our architecture to reality.
 
 <div align="center">
 
@@ -44,7 +52,7 @@ We leverage a modern, high-performance ecosystem to bring our ideas to reality.
 
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/NativeWind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="NativeWind" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 
 ### Backend & AI Infrastructure
