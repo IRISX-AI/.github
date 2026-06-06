@@ -2,10 +2,10 @@
   <img src="/assets/Banner.png" width="100%" alt="IRISX-AI Banner" style="border-radius: 12px; margin-bottom: 25px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" />
   
   <a href="https://github.com/IRISX-AI">
-    <img src="/assets/icon.jpg" width="120" alt="IRISX-AI Logo" style="border-radius: 50%; border: 3px solid #0dac07; box-shadow: 0px 0px 20px rgba(7, 128, 13, 0.4);" />
+    <img src="/assets/icon.jpg" width="120" alt="IRISX-AI Logo" style="border-radius: 50%; border: 3px solid #06B6D4; box-shadow: 0px 0px 20px rgba(6, 182, 212, 0.4);" />
   </a>
 
-  <h1>🌌 Welcome to IRIS-AI</h1>
+  <h1>🌌 Welcome to IRISX-AI</h1>
   <p><strong>Pioneering the Next Generation of AI-Powered Ecosystems & Applications</strong></p>
 
   <p>
