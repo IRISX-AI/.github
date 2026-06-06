@@ -3,7 +3,7 @@
   <br /><br />
   
   <a href="https://github.com/IRISX-AI">
-    <img src="/assets/icon.png" width="130" alt="IRISX-AI Logo" />
+    <img src="/assets/icon.jpg" width="130" alt="IRISX-AI Logo" />
   </a>
 
   <h1>🌌 Welcome to IRISX-AI</h1>
