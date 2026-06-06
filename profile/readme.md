@@ -2,8 +2,8 @@
   <img src="/assets/Banner.png" width="100%" alt="IRISX-AI Banner" />
   <br /><br />
   
-  <a href="https://github.com/IRISX-AI">
-    <img src="/assets/icon.jpg" width="130" alt="IRISX-AI Logo" />
+ <a href="https://github.com/IRISX-AI">
+    <img src="/assets/icon_glowing.png" width="140" alt="IRISX-AI Logo" />
   </a>
 
   <h1>🌌 Welcome to IRISX-AI</h1>
