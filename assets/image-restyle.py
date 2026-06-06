@@ -46,4 +46,9 @@ def create_glowing_logo(input_path, output_path):
     glow_canvas.save(output_path, format="PNG")
     print(f"✅ Success! Saved as {output_path}")
 
-create_glowing_logo("icon.jpg", "icon_glowing.png")
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Create a glowing logo from an input image.")
+    parser.add_argument("input", nargs="?", default="icon.jpg", help="Input image file path")
+    parser.add_argument("output", nargs="?", default="icon_glowing.png", help="Output PNG file path")
+    args = parser.parse_args()
+    create_glowing_logo(args.input, args.output)
