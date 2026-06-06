@@ -1,12 +1,24 @@
+from pathlib import Path
+import argparse
 from PIL import Image, ImageDraw, ImageFilter
 
+SCRIPT_DIR = Path(__file__).resolve().parent
+
+def resolve_path(path):
+    p = Path(path)
+    return p if p.is_absolute() else SCRIPT_DIR / p
+
 def create_glowing_logo(input_path, output_path):
+    input_path = resolve_path(input_path)
+    if not input_path.exists():
+        raise FileNotFoundError(f"Input file not found: {input_path}")
+
     # 1. Open image and crop it to a perfect square
     img = Image.open(input_path).convert("RGBA")
     size = min(img.size)
     img = img.crop(((img.width - size) // 2, (img.height - size) // 2, 
                     (img.width + size) // 2, (img.height + size) // 2))
-    img = img.resize((400, 400), Image.Resampling.LANCZOS)
+    img = img.resize((400, 400), Image.Resampling.LANCZOS)  
 
     # 2. Create a circular mask
     mask = Image.new("L", (400, 400), 0)
