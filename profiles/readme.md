@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=IRIS-AI&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="IRIS-AI Banner" />
+  <img src="/assets/Banner.png" width="100%" alt="IRIS-AI Banner" />
 
   <h1>🌌 Welcome to the IRIS-AI Organization</h1>
   <p><strong>Pioneering the Next Generation of AI-Powered Ecosystems & Applications</strong></p>
 
   <p>
     <a href="https://github.com/iris-ai">
-      <img src="https://img.shields.io/badge/Open_Source-💙-000000?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
+      <img src="/assets/icon.jpg" width="10%" alt="Open Source" />
     </a>
     <a href="https://github.com/sponsors/YOUR_GITHUB_USERNAME">
       <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" />
