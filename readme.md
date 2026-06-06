@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="/assets/Banner.png" width="100%" alt="IRISX-AI Banner" style="border-radius: 12px; margin-bottom: 25px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" />
+  <img src="/assets/Banner.png" width="100%" alt="IRISX-AI Banner" />
+  <br /><br />
   
-  <a href="https://github.com/IRISX-AI">
-    <img src="/assets/icon.jpg" width="120" alt="IRISX-AI Logo" style="border-radius: 50%; border: 3px solid #06B6D4; box-shadow: 0px 0px 20px rgba(6, 182, 212, 0.4);" />
+ <a href="https://github.com/IRISX-AI">
+    <img src="/assets/icon_glowing.png" width="140" alt="IRISX-AI Logo" />
   </a>
 
   <h1>🌌 Welcome to IRISX-AI</h1>
